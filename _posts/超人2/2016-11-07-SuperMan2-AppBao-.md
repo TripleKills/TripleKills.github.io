@@ -1,4 +1,11 @@
-#超人2应用宝接入
+---
+layout: post
+title: 超人2应用宝接入
+category: 超人2
+tags: 
+keywords: 
+description: 
+---
 ##相关信息
 	APPID： 1105774050
 
