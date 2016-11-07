@@ -1,3 +1,0 @@
-Jekyll template is from lay1010.github.io
-
-Content written by Terry Chen Nan
