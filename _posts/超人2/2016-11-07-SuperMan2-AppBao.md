@@ -1,11 +1,4 @@
----
-layout: post
-title: 超人2应用宝接入
-category: 超人2
-tags: 
-keywords: 
-description: 
----
+#超人2应用宝接入
 ##相关信息
 	APPID： 1105774050
 
@@ -14,6 +7,9 @@ description:
 
 ##官方流程图
 ![流程图](http://og9k4sqik.bkt.clouddn.com/%E5%BA%94%E7%94%A8%E5%AE%9D%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
+
+##二维码
+![二维码](http://og9k4sqik.bkt.clouddn.com/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
 
 ###H5YSDK支付接口调用
 	<script src="http://qzs.qq.com/open/mobile/h5gamesdk/build/sdk.js"></script>
